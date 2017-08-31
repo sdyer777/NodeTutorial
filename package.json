@@ -1,0 +1,22 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "local copy of nodetutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdyer777/NodeTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdyer777/NodeTutorial/issues"
+  },
+  "homepage": "https://github.com/sdyer777/NodeTutorial#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
